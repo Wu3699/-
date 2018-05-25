@@ -1,0 +1,19 @@
+{
+ "seller":
+ {
+   "name":"服费",
+   "description":"都无法",
+   "deliveryTime":"28",
+   "userId":123
+ },
+ "login":[
+  {
+    "username":"zhangsan@",
+    "userId":123
+  },
+  {
+    "username":"lisi@",
+    "userId":123
+  }
+]
+}
